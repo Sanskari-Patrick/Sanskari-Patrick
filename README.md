@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanskari-Patrick. A budding web designer, game developer and 2D animator from India. As of October 2021, I'm 18 years old and just about to join college
 - 👀 I’m interested in coding, reading novels, making indie projects (well i'm not ready as of yet, but i will be)
-- 🌱 I’m currently learning HTML and CSS languages for basic web designing
+- 🌱 I’m currently learning Java and C languages
 - 💞️ I’m looking to collaborate on some game app projects in the about a year
 - 📫 How to reach me - my instagram is @prat_loha_07, you can message me there!
 
